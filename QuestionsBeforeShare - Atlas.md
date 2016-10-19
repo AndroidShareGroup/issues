@@ -13,10 +13,10 @@
 -----
 
 #### 2.  是否有类似的Altas框架？
-###提问者：zouwansheng Github ID）
+###提问者：zouwansheng （Github ID）
 
 -----
 
 #### 3.  能不能结合手淘app实例分析下这个框架？
-###提问者：righere Github ID）
+###提问者：righere （Github ID）
 
