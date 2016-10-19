@@ -6,7 +6,7 @@
 
 <!--
 
-贴代码要用下面的格式，具体可以参考 Github 的帮助文档。
+贴代码要用下面的格式，具体可以参考 Github 的帮助文档：https://guides.github.com/features/mastering-markdown/
 
 示例：
 ```java
